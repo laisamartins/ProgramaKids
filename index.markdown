@@ -4,7 +4,7 @@
 
 layout: home
 ---
-## ProgramaKids: Apresentando a programação para as crianças aaa
+### ProgramaKids: Apresentando a programação para as crianças
 Repositório do curso **ProgramaKids: Apresentando a programação para as crianças**, desenvolvido como produto final do Trabalho de Conclusão de Curso de bacharelado em Ciência da Computação da estudante Laisa Martins dos Santos, da Universidade Federal do Espírito Santo.
 
 O curso ProgramaKids possui dois capítulos, que podem ser acessados pelos links abaixo ou no canto superior direito da tela. 
