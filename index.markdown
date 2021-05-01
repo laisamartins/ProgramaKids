@@ -9,7 +9,7 @@ Repositório do curso **ProgramaKids: Apresentando a programação para as crian
 
 O curso ProgramaKids possui dois capítulos, que podem ser acessados pelos links abaixo ou no canto superior direito da tela. 
 
-- [Capítulo 1 - Brincando com a Hora do Código](https://laisamartins.github.io/programakids/capituloum/):
+- [Capítulo 1 - Brincando com a Hora do Código](http://127.0.0.1:4000/programakids/capituloum/):
     O capítulo 1 possui 4 atividades, retiradas da página da Hora do Código. Cada atividade acompanha um texto introdutório.
     
 - [Capítulo 2 - Programando com o Scratch](https://laisamartins.github.io/programakids/capitulodois/): 
